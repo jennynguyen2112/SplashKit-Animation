@@ -1,0 +1,14 @@
+SplashKit Animation
+
+//f: identifier, cell number, duration, next frame
+f: [0,3], [0,3], 5, 0
+f: [4-7], [4-7], 5, 4
+f: [8-11], [8-11], 5, 8
+f: [12-15], [12-15], 5, 12
+
+//identifier
+i:walkforward, 0
+i:walkleft, 4
+i:walkright, 8
+i:walkbackward, 12
+
